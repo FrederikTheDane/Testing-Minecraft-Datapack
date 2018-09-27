@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:skeleton,limit=1] run tell @a You feel like you're going to have a bad time

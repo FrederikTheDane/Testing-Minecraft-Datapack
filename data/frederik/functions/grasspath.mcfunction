@@ -1,0 +1,1 @@
+execute at @a[nbt={OnGround:1b}] if block ~ ~-0.1 ~ minecraft:grass_block run fill ~-0.1 ~-0.1 ~-0.1 ~0.1 ~-0.1 ~0.1 minecraft:grass_path replace minecraft:grass_block 

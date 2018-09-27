@@ -1,0 +1,1 @@
+execute at @a[nbt={abilities:{flying:1b}}] run particle minecraft:cloud ~ ~ ~ 0.2 0 0.2 0.01 10 

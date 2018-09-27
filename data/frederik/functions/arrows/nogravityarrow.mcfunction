@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:arrow,nbt={Potion:"minecraft:water",Color:255}] run data merge entity @s {NoGravity:1b,Glowing:1b}

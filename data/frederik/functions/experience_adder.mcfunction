@@ -1,0 +1,1 @@
+execute as @a[nbt={ActiveEffects:[{Id:26b}]}] run experience add @s 1 levels

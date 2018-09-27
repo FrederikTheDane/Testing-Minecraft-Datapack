@@ -1,0 +1,2 @@
+execute as @e[type=minecraft:arrow,nbt={Potion:"minecraft:water",Color:16751001,inGround:1b}] at @s run summon minecraft:pig
+kill @e[type=minecraft:arrow,nbt={Potion:"minecraft:water",Color:16751001,inGround:1b}]
