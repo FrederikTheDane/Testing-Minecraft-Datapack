@@ -1,1 +1,2 @@
 execute as @e[type=minecraft:arrow,nbt={Potion:"minecraft:water",Color:255}] run data merge entity @s {NoGravity:1b,Glowing:1b}
+execute as @e[type=minecraft:arrow,nbt={Potion:"minecraft:water",Color:255,inGround:0b},scores={age=1200..}] run kill @s
