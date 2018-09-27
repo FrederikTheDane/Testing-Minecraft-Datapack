@@ -3,7 +3,7 @@ function frederik:create_teleporter
 function frederik:arrows/arrows_tick
 function frederik:experience_bottles
 function frederik:experience_adder
-function frederik:cloudflight
+function frederik:cloud_flight/cloud_flight_tick
 #function frederik:snowball
 
 function frederik:tracking
